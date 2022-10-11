@@ -1,0 +1,31 @@
+/*.row > div{
+
+    outline: 1px solid black;
+}
+
+.container .row div{
+    background-color:white;
+}
+
+.container{
+
+    background: black;
+}
+*/
+
+.nav-pills .nav-link.active  {
+    background-color:red !important;
+}
+
+.nav-pills .nav-link.active:hover {
+    background-color: yellow !important;
+}
+
+#progression > div{
+
+    outline:0 !important;
+}
+
+.progress{
+    background-color: #ccc !important;
+}
