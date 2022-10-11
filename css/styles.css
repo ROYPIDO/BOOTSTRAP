@@ -29,3 +29,7 @@
 .progress{
     background-color: #ccc !important;
 }
+
+.carousel-inner,.carousel-item{
+    height: 500px;
+}
